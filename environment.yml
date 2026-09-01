@@ -1,0 +1,13 @@
+name: mujoco-panda-learning
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - gym-hil==0.1.14
+      - mujoco==3.8.1
+      - gymnasium==1.3.0
+      - numpy==2.2.6
+      - imageio==2.37.4
+      - imageio-ffmpeg

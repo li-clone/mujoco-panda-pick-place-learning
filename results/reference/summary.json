@@ -1,0 +1,28 @@
+{
+  "builtin": {
+    "episodes": 20,
+    "successes": 20,
+    "success_rate": 1.0,
+    "target_distance_mean": 0.0206983384881873,
+    "target_distance_p95": 0.021636553226945552,
+    "waypoint_error_mean": 0.01412535913151616,
+    "waypoint_error_p95": 0.017059500939722846,
+    "control_steps_mean": 183.65,
+    "joint_limit_clips_total": 0,
+    "torque_clipped_substeps_total": 0,
+    "failure_counts": {}
+  },
+  "dls": {
+    "episodes": 20,
+    "successes": 20,
+    "success_rate": 1.0,
+    "target_distance_mean": 0.022572289470692463,
+    "target_distance_p95": 0.027194159615512005,
+    "waypoint_error_mean": 0.0033983991629964756,
+    "waypoint_error_p95": 0.005823194285489735,
+    "control_steps_mean": 181.55,
+    "joint_limit_clips_total": 0,
+    "torque_clipped_substeps_total": 776,
+    "failure_counts": {}
+  }
+}

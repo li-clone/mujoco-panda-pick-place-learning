@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.idea/
+.vscode/
+.DS_Store
+
+# Generated rollouts and benchmark reports. Curated reference results live in results/reference/.
+outputs/
+
+# Local environments and large archives.
+.venv/
+env/
+*.tar.gz

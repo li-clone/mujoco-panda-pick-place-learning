@@ -1,0 +1,2 @@
+# Benchmark CSV is emitted with RFC 4180 CRLF line endings; preserve it byte-for-byte.
+results/reference/*.csv binary
